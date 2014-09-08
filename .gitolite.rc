@@ -1,0 +1,6 @@
+
+
+ok for GIT_CONFIG_KEYS and make it look like :
+GIT_CONFIG_KEYS                 =>  '.*',
+
+## then save and exit
